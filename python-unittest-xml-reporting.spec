@@ -5,7 +5,7 @@ Summary:	Unittest-based test runner with Ant/JUnit like XML reporting.
 Name:		python-%{module}
 Version:	1.2
 Release:	1
-License:	BSD-like
+License:	LGPL
 Group:		Libraries/Python
 Source0:	http://pypi.python.org/packages/source/u/unittest-xml-reporting/%{module}-%{version}.tar.gz
 # Source0-md5:	cc1f1f576ed46c5f5cd127ce99ff1e4a
