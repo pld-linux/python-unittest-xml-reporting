@@ -1,9 +1,9 @@
 
 %define 	module	unittest-xml-reporting
 
-Summary:	Unittest-based test runner with Ant/JUnit like XML reporting.
+Summary:	Unittest-based test runner with Ant/JUnit like XML reporting
 Name:		python-%{module}
-Version:	1.2
+Version:	1.3.1
 Release:	1
 License:	LGPL
 Group:		Libraries/Python
@@ -18,7 +18,9 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-unittest-xml-reporting is a unittest test runner that can save test results to XML files that can be consumed by a wide range of tools, such as build systems, IDEs and continuous integration servers.
+unittest-xml-reporting is a unittest test runner that can save test
+results to XML files that can be consumed by a wide range of tools,
+such as build systems, IDEs and continuous integration servers.
 
 %prep
 %setup -q -n %{module}-%{version}
