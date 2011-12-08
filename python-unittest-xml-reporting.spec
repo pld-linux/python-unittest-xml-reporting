@@ -8,7 +8,7 @@ Release:	1
 License:	LGPL
 Group:		Libraries/Python
 Source0:	http://pypi.python.org/packages/source/u/unittest-xml-reporting/%{module}-%{version}.tar.gz
-# Source0-md5:	cc1f1f576ed46c5f5cd127ce99ff1e4a
+# Source0-md5:	ddd72668d2fc4707e566b11b31b5b7a2
 URL:		http://github.com/danielfm/unittest-xml-reporting/tree/master/
 BuildRequires:	python-devel >= 1:2.3
 BuildRequires:	python-modules
