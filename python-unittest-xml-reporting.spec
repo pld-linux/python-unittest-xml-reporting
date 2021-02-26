@@ -7,7 +7,7 @@
 Summary:	Unittest-based test runner with Ant/JUnit like XML reporting
 Name:		python-%{module}
 Version:	2.1.0
-Release:	4
+Release:	5
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/77/27/b4442a041de8fc5366e3d0c82fa2919cba76d6fc7888635540828c740633/%{module}-%{version}.tar.gz
